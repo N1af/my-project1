@@ -1,0 +1,163 @@
+.H-Heading {
+    font-size: 42px;
+    color: rgb(110, 110, 115);
+    padding: 26px;
+    margin-left: 60px;
+    margin-top: 28px;
+    font-weight: 600;
+    line-height: 1.0834933333;
+    letter-spacing: .003em;
+    font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.H-Heading span {
+    color: black;
+}
+.Latest-Stock {
+    display: flex;
+    overflow-x: scroll;
+    white-space: nowrap;
+    padding-bottom: 10px;
+    gap: 20px;
+    -ms-overflow-style: none;
+    scrollbar-width: none ;
+    
+    
+}
+.Latest-Stock::-webkit-scrollbar {
+    display: none;
+}
+.image-container {
+    display: inline-block;
+ 
+}
+.L-image {
+    height: 108px;
+    padding-left: 70px;
+    display: block;
+    scroll-margin-block-end: 20px;
+    padding-top: 50px ;
+    width: auto;
+    filter: drop-shadow(12px -1px 5px rgba(126, 62, 62, 0.55));
+    
+
+    
+    
+}
+
+.L-product {
+    padding-left: 30px;
+    margin: 60px;
+    margin-top: 86px;
+    color: #6e6e73;
+    font-size: 28px;
+    display: inline;
+    font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    letter-spacing: .003em;
+    line-height: 6.142857;
+}
+.L-product span {
+    color: black;
+}
+
+
+.L-product-img {
+    overflow-x: scroll;
+    display: flex;
+    gap: 30px;
+    -ms-overflow-style: none;
+    padding-left: 91px;
+    
+    
+}
+.L-product-img::-webkit-scrollbar {
+    display: none;
+}
+.L-img {
+    height: 470px;
+    width: 400px;
+    border-radius: 20px;
+    box-shadow: 11px 2px 9px rgba(62, 54, 54, 0.55);
+}
+.L-product-img1 {
+    overflow-x: scroll;
+    display: flex;
+    gap: 30px;
+    padding-left: 91px;
+    padding-top: 30px;
+}
+.L-product-img1::-webkit-scrollbar {
+    display: none;
+}
+.L-img1 {
+    height: 470px;
+    width: 400px;
+    border-radius: 20px;
+    box-shadow: 11px 2px 9px rgba(62, 54, 54, 0.55);
+    
+}
+
+.h-product {
+    color: #6e6e73;
+    padding-left: 30px;
+    margin-left: 60px;
+    margin-top: 86px;
+    font-size: 28px;
+    display: inline;
+    font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    letter-spacing: .003em;
+    line-height: 6.142857;
+}
+
+.h-product span {
+    color: black;
+}
+
+.image-box {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    position: relative;
+    width: 300px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+
+}
+.text-container {
+    padding: 10px;
+    background-color: white;
+    border-radius: 0 0 10px 10px;
+    text-align: left;
+}
+.imageB {
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+    flex-grow: 1;
+    
+}
+
+.L-product-img2 {
+    overflow-x: scroll;
+    display: flex;
+    gap: 30px;
+    padding-left: 91px;
+    
+}
+
+.L-img2 {
+    height: 470px;
+    width: 450px;
+    border-radius: 20px;
+    box-shadow: 11px 2px 9px rgba(62, 54, 54, 0.55);
+    
+}
+.L-product-img2::-webkit-scrollbar {
+    display: none;
+}

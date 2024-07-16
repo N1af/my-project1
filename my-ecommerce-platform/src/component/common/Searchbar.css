@@ -1,0 +1,20 @@
+.Search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}
+
+.Search-bar {
+    background-color: #D9D9D9;
+    border-radius: 9px;
+    width: 15%;
+    padding: 6px;
+    font-size: 12px;
+    font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    box-shadow: 2px 4px 12px rgba(0, 0, 0, 7.84%);
+    border: 1px none;
+    outline: none;
+    color: rgba(0, 0, 0, 50%);
+    font-weight: lighter;
+}

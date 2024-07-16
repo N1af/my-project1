@@ -1,0 +1,28 @@
+
+.navbar {
+    display: flex;
+    background-color: #F5F5F7;
+    font-size: 12px;
+    justify-content: space-between;
+    align-items: center;
+    letter-spacing: .03em;
+    line-height: 1;  
+    color: rgb(110, 110, 115);
+    position: relative;
+    z-index: 1;
+    padding: 15px 340px;
+    overflow: hidden;
+    background: no-repeat;
+    margin: 0 -8px;
+   
+}
+
+.navbar-logo {
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.navbar a{
+    color: rgba(0, 0, 0, 0.8);
+    text-decoration: none;
+}
